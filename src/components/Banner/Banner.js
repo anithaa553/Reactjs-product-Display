@@ -5,7 +5,7 @@ import {
   bannerImgOne,
   bannerImgTwo,
   bannerImgThree,
-} from "../../assets/images";
+} from "../../assets/images"; 
 import Image from "../designLayouts/Image";
 
 const CustomSlide = ({ Subtext, imgSrc, text, buttonLink, buttonText }) => (
