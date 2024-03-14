@@ -3,7 +3,7 @@ import { useLocation } from "react-router-dom";
 import Breadcrumbs from "../../components/pageProps/Breadcrumbs";
 import ProductInfo from "../../components/pageProps/productDetails/ProductInfo";
 import { FaDownload } from "react-icons/fa";
-
+ 
 const tabs = [
   {
     id: "Fiche Technique",
