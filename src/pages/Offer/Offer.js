@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 import ShopSideNav from "../../components/pageProps/shopPage/ShopSideNav";
 
 const Offer = () => {
-  const [prevLocation] = useState("");
+  const [prevLocation] = useState(""); 
   const { category } = useParams();
 
   return (
