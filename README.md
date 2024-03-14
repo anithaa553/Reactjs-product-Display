@@ -48,6 +48,7 @@ Follow the instructions on each page to use the application.
 
    ->you can check this for live
    http://localhost:3000/
+    https://orebishopping.reactbd.com/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
 
