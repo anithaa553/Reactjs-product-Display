@@ -46,7 +46,8 @@ Follow the instructions on each page to use the application.
 
   VITE v5.1.6  ready in 1438 ms
 
-     http://localhost:3000/
+   ->you can check this for live
+   http://localhost:3000/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
 
