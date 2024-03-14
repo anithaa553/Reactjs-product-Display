@@ -1,7 +1,7 @@
 import {
   spfOne,
   spfTwo,
-  spfThree,
+  spfThree, 
   spfFour,
   bestSellerOne,
   bestSellerTwo,
