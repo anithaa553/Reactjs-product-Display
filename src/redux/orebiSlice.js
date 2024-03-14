@@ -6,7 +6,7 @@ const initialState = {
   products: [],
   checkedBrands: [],
   checkedCategorys: [],
-};
+}; 
 
 export const orebiSlice = createSlice({
   name: "orebi",
